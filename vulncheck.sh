@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Adriano Domingos - By kassalero
+
 # Check for vulnerabilities in installed packages
 
 printf "Checking for vulnerabilities in installed packages...\n"
